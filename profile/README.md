@@ -2,6 +2,8 @@
 
 CLPR ("Clipper") is an extensible **C**ross **L**edger **PR**otocol that enables reliable, asynchronous, in-order message passing between independent ledger networks without bridges, pooled liquidity, or intermediary validator networks.
 
+Join our weekly sync calls: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200
+
 ### Scope of Lab
 
 The mission of the CLPR LFDT Lab is to provide a place where people in the broader blockchain community can come together and collaborate on:
