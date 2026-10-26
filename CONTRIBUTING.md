@@ -148,20 +148,24 @@ Now that you've got your [forked](#forking) branch, you can proceed to submit yo
 
 ## I Have a Question
 
-Before you ask a question, it is best to search for existing Issues that might help you.
-In case you have found a suitable issue and still need clarification, you can write your question in this issue.
-It is also advisable to search the internet for answers first.
+### Discord communication
 
-If you then still feel the need to ask a question and need clarification, we recommend the following:
+1. **Join the [Linux Foundation Decentralized Trust (LFDT)](https://discord.gg/hyperledger) Server:**
+2.  **Read and Accept the Server Rules:**
+3.  **Access the [CLPR Discord Channel](https://discord.com/channels/905194001349627914/1559643143559717006)**
 
-- Open an Issue.
-- Provide as much context as you can about what you're running into.
+### Open Community Meetings
 
-We will then take care of the issue as soon as possible.
+Join our weekly sync calls: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200
+
+### Past Meeting Recordings
+
+Past meeting recordings can be found in the public [LFX calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs).
 
 ## Reporting Bugs Or Suggesting Enhancements
 
-If you found a bug in our code or want to suggest a new feature or improvement please create a new Issue.
+If you found a bug in our code or want to suggest a new feature or improvement please create a New Issue in the corresponding repository.
 
 ## Attribution
+
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
