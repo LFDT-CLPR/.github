@@ -150,13 +150,15 @@ Now that you've got your [forked](#forking) branch, you can proceed to submit yo
 
 ### Discord communication
 
-1. Join the [Linux Foundation Decentralized Trust (LFDT)](https://discord.gg/hyperledger) Server
-2. Read and Accept the Server Rules
-3. Access the [CLPR Discord Channel](https://discord.com/channels/905194001349627914/1559643143559717006)
+1. Join the [Linux Foundation Decentralized Trust (LFDT)](https://discord.gg/hyperledger) Server.
+2. Read and Accept the Server Rules.
+3. Access the [CLPR Discord Channel](https://discord.com/channels/905194001349627914/1559643143559717006).
 
 ### Open Community Meetings
 
-Join our [Weekly sync calls](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200)
+Join our [Weekly sync calls](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200).
+
+Meeting agendas can be found [here](https://github.com/LFDT-CLPR/governance/wiki).
 
 ### Past Meeting Recordings
 
