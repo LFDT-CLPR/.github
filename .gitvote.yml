@@ -178,29 +178,6 @@ profiles:
     #   discussions:
     #     category: null
 
-  allMembers:
-    duration: 1w
-    pass_threshold: 50.01
-    pass_threshold_base:
-      votes_cast:
-        exclude_abstentions: true
-    close_on_passing: true
-    close_on_passing_min_wait: "3 days"
-    periodic_status_check: "1 day"
-
-  allMaintainers:
-    duration: 2w
-    pass_threshold: 50.01
-    pass_threshold_base:
-      votes_cast:
-        exclude_abstentions: true
-    periodic_status_check: "2 days"
-    close_on_passing: true
-    allowed_voters:
-      teams:
-        - clpr-maintainers
-        - security-maintainers
-
   clprMaintainers:
     duration: 2w
     pass_threshold: 50.01
