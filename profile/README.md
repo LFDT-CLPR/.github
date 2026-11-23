@@ -4,6 +4,8 @@ CLPR ("Clipper") is an extensible **C**ross **L**edger **PR**otocol that enables
 
 Join our weekly sync calls: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200
 
+Currently the CLPR website is hosted temporarily under https://clpr.playground.open-elements.cloud until the official domain is forwarded to LFDT.
+
 ### Scope of Lab
 
 The mission of the CLPR LFDT Lab is to provide a place where people in the broader blockchain community can come together and collaborate on:
